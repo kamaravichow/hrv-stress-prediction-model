@@ -1,0 +1,6 @@
+Epoch 1/3
+33236/33236 - 27s - loss: 0.7807 - accuracy: 0.6594 - val_loss: 0.6431 - val_accuracy: 0.7197
+Epoch 2/3
+33236/33236 - 27s - loss: 0.5632 - accuracy: 0.7632 - val_loss: 0.4999 - val_accuracy: 0.7947
+Epoch 3/3
+33236/33236 - 27s - loss: 0.4514 - accuracy: 0.8164 - val_loss: 0.4075 - val_accuracy: 0.8313

@@ -1,0 +1,7 @@
+[['no stress']
+ ['time pressure']
+ ['no stress']
+ ...
+ ['no stress']
+ ['no stress']
+ ['time pressure']]
