@@ -1,2 +1,2 @@
-# doctor-sanity
-Doctor sanity is an application that gives information about your vital signs in your smartphone
+# Psychological Stress Detection with HRV(Heart Rate Variablity)
+A keras model to estimate the psychological stress using HRV data with accuracy of 92%.
